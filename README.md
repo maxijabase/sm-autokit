@@ -36,3 +36,8 @@ SourceMod plugin for TF2 that auto-spawns persistent health and ammo kits, saved
 ## Building from Source
 
 Compile `scripting/auto_kit.sp` with [SourcePawn compiler](https://www.sourcemod.net/downloads.php) 1.7+.
+
+## Credits
+
+- **ClassicGuzzi** — original plugin author ([AlliedModders thread](https://forums.alliedmods.net/showthread.php?t=232059))
+- **DarthNinja** — Auto Pumpkins plugin, which this is based on
