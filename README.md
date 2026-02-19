@@ -11,7 +11,6 @@ SourceMod plugin for TF2 that auto-spawns persistent health and ammo kits, saved
 
 ## Requirements
 
-- [SourceMod](https://www.sourcemod.net/) 1.7+
 - MySQL / MariaDB database
 - A `autokits` database entry in `addons/sourcemod/configs/databases.cfg`
 
@@ -33,11 +32,7 @@ SourceMod plugin for TF2 that auto-spawns persistent health and ammo kits, saved
 
 3. Restart the server — the table `TF2_AutoKits` is created automatically.
 
-## Building from Source
-
-Compile `scripting/auto_kit.sp` with [SourcePawn compiler](https://www.sourcemod.net/downloads.php) 1.7+.
-
 ## Credits
 
-- **ClassicGuzzi** — original plugin author ([AlliedModders thread](https://forums.alliedmods.net/showthread.php?t=232059))
+- **ClassicGuzzi** — original plugin author ([AlliedModders thread](https://forums.alliedmods.net/showthread.php?p=2231510))
 - **DarthNinja** — Auto Pumpkins plugin, which this is based on
